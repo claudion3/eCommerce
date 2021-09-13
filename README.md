@@ -1,7 +1,5 @@
 # eCommerce
 
-E-commerce website written in React,MongoDB,Nodejs.
-
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [React](https://reactjs.org/) - Web Framework
